@@ -1,0 +1,1 @@
+# solved-c-program-that-stimulate-a-lottery
